@@ -22,3 +22,6 @@ Things you may want to cover:
 - Deployment instructions
 
 - ...
+
+Source
+[Go Rails](https://gorails.com/episodes/routing-inbound-emails-actionmailbox-rails)
