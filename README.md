@@ -23,5 +23,8 @@ Things you may want to cover:
 
 - ...
 
-Source
-[Go Rails](https://gorails.com/episodes/routing-inbound-emails-actionmailbox-rails)
+## Links
+
+- [Inbound Emails](http://localhost:3000/rails/conductor/action_mailbox/inbound_emails/new)
+  Source
+  [Go Rails](https://gorails.com/episodes/routing-inbound-emails-actionmailbox-rails)
